@@ -4,6 +4,7 @@ import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.uimanager.ViewManager;
+import com.reactnativeexample.firebase.FirebaseModule;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -22,6 +23,7 @@ public class CustomToastPackage implements ReactPackage {
         List<NativeModule> modules = new ArrayList<>();
 
         modules.add(new ToastModule(reactContext));
+        modules.add(new FirebaseModule(reactContext));
 
         return modules;
     }

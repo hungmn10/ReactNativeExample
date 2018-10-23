@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {View, Text, Button} from 'react-native';
-import {ToastExample} from "../../ToastExample";
+import {ToastExample, FirebaseModule} from "../native-module/ToastExample";
 
 class NativeModule extends Component {
     constructor(props) {
@@ -15,7 +15,11 @@ class NativeModule extends Component {
                     title={'Native module'}
                     accessibilityLabel="Learn more about this purple button"
                     onPress={() => {
-                        ToastExample.show('hello', ToastExample.SHORT)
+                        // ToastExample.show('hello', ToastExample.SHORT)
+                        FirebaseModule.getMessage(map => {
+                            console.log("dungtrihp123456 map", map);
+                            ToastExample.show(map.key, ToastExample.SHORT)
+                        })
                     }}
                 />
             </View>
