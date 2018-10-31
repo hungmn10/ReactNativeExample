@@ -12,7 +12,7 @@ class Screen1 extends Component {
                 <Text>{'Screen 1'}</Text>
                 <Button
                     title={'Native module'}
-                    accessibilityLabel="Learn more about this purple button"
+                    accessibilityLabel="Learn more about this purple button dsdsds"
                     onPress={() => {
                       this.props.navigation.navigate('NativeModule')
                     }}

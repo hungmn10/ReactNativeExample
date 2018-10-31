@@ -1,0 +1,197 @@
+{
+  "project_info": {
+    "project_number": "461212786563",
+    "firebase_url": "https://ghov.firebaseio.com",
+    "project_id": "firebase-ghov",
+    "storage_bucket": "firebase-ghov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461212786563:android:3ae9b55a5324f4e2",
+        "android_client_info": {
+          "package_name": "com.reactnativeexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461212786563-6qfo5lovbaqpphvbcfl993l8782q4ktc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6085dBpeRPK0e8CaVXLtsv30JIeHFWD8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461212786563:android:9b39bcb45d30bdb7",
+        "android_client_info": {
+          "package_name": "group.vulner.crypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461212786563-6qfo5lovbaqpphvbcfl993l8782q4ktc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6085dBpeRPK0e8CaVXLtsv30JIeHFWD8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461212786563:android:41d02bf5a85cac3f",
+        "android_client_info": {
+          "package_name": "group.vulner.ghov_dieuvan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461212786563-6qfo5lovbaqpphvbcfl993l8782q4ktc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6085dBpeRPK0e8CaVXLtsv30JIeHFWD8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461212786563:android:9b1f4b6f01b19b65",
+        "android_client_info": {
+          "package_name": "group.vulner.ghov_quanlykho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461212786563-6qfo5lovbaqpphvbcfl993l8782q4ktc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6085dBpeRPK0e8CaVXLtsv30JIeHFWD8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461212786563:android:b51a0d512d0cb576",
+        "android_client_info": {
+          "package_name": "test.group.giaohangongvang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461212786563-6qfo5lovbaqpphvbcfl993l8782q4ktc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6085dBpeRPK0e8CaVXLtsv30JIeHFWD8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461212786563:android:d75efc292fa8f1a7",
+        "android_client_info": {
+          "package_name": "vulner.group.giaohangongvang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461212786563-6qfo5lovbaqpphvbcfl993l8782q4ktc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6085dBpeRPK0e8CaVXLtsv30JIeHFWD8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
